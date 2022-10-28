@@ -5,5 +5,5 @@ function isPositive(number){
 isPositive();
 
 //arrow function
-let isPositive=(number)=>comnsole.log(number>=0)
+let isPositive=(number)=>console.log(number>=0)
 isPositive();
